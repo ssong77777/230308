@@ -72,6 +72,7 @@ a {
 #btnSlides {
   position: absolute;
   top: 52%;
+  text-align: center;
 }
 
 #btnSlides button {
@@ -82,7 +83,6 @@ a {
   border-radius: 50%;
   border: none;
   cursor: pointer;
-  text-align: center;
 }
 
 #imgList {
